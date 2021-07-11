@@ -10,3 +10,7 @@ They’ve asked you to hide their website’s contact page behind a password for
 # Random Color Picker
 
 Our program will set the screen’s background to a random color. Clicking a button will refresh to a new, random color.
+
+# Video Player
+
+For this project, we’ll make three React components work together to create a responsive video player.
